@@ -1,7 +1,7 @@
 # Power-BI-Student-Analysis-Dashboard
 # 🎓 Student Performance Analysis Dashboard | Power BI
 
-![Dashboard Preview](dashboard.png)
+
 
 ## 📌 Project Overview
 
@@ -64,9 +64,7 @@ The **Student Performance Analysis Dashboard** is an interactive Power BI dashbo
 
 ---
 
-## 📷 Dashboard Preview
 
-![Student Performance Dashboard](dashboard.png)
 
 ---
 
